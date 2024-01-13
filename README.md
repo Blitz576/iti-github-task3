@@ -15,7 +15,7 @@ git tag
 ```
 
 ## *I Love Eng Ahmed Samy*
-![Eng:Ahmed Samy](https://avatars.githubusercontent.com/u/64940965?v=4)
+![Eng:Ahmed Samy](https://avatars.githubusercontent.com/u/64940965?v=4)|100x100
 
 ## *And I Love Dr Mostafa Saad* 
 <img src="https://avatars.githubusercontent.com/u/5536363?v=4" width="150" height="150">
