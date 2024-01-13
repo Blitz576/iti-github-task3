@@ -9,3 +9,7 @@ git branch --delete <branchname>
 ```Bash
 git push <remote_name> --delete <branch_name>
 ```
+*to list all the tags*
+```bash
+git tag
+```
