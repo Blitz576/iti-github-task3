@@ -15,7 +15,7 @@ git tag
 ```
 
 *i really love dr.Mostafa saad*
-![Alt Text]([https://i.imgur.com/example.jpg](https://avatars.githubusercontent.com/u/5536363?v=4)https://avatars.githubusercontent.com/u/5536363?v=4)
+![](https://avatars.githubusercontent.com/u/5536363?v=4)
 
 
 
