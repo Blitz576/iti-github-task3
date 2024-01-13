@@ -15,7 +15,7 @@ git tag
 ```
 
 ## *I Love Dr Mostafa Saad* 
-<img src="https://avatars.githubusercontent.com/u/5536363?v=4" width="150" height="150" margin="auto">
+<img src="https://avatars.githubusercontent.com/u/5536363?v=4" width="150" height="150" margin="auto" style="display: block; margin: auto;">
 
 
 
